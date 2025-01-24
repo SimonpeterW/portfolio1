@@ -1,0 +1,115 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    overflow-x: hidden;
+    line-height: 1.8;
+}
+
+
+.header{
+    height: 60px;
+    width: 100%;
+    background-color: rgb(216, 146, 157);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 18px;
+    justify-content: space-between;
+
+}
+.header a{
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+    font-size: 20px;  
+}
+.header a:hover{
+    color: blueviolet;
+}
+.nav-logo, .nav-ctr-nav, .nav-rgt-nav{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    text-align: center;
+}
+.home_container{
+    background-position: center;
+    background-size: cover;
+    background-image: linear-gradient(0deg, rgba(100, 55, 178, 0.197), rgba(156, 52, 140, 0.222)),url("key-1.jpg");
+    min-height: 100%;
+    height: 700px;
+    width: 100%;
+    position: relative;
+   
+}
+.home_div1{
+   position: relative;
+    top: 180px;
+    left: 20px;
+   
+}
+.home_div1 span{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 20px;
+}
+.home_div2{
+    position: relative;
+    top: 500px;
+    left: 20px;
+}
+.home_div3{
+    position: relative;
+    top: 60%;
+    left: 80%;
+}
+.about{
+    padding: 40px;
+    align-items: center;
+    display: grid;
+    grid-template-columns: auto auto auto;  
+    column-gap: 20px;  
+}
+.about h1{
+    grid-column: 1/4;
+    text-align: center;
+  
+    
+}
+.banner{
+    background-image: url(moo-1.jpg);
+    background-position: center;
+    background-size: cover;    
+   width: 500px;
+   height: 400px;
+    margin-left: 40px;
+  
+}
+   
+ .p{
+    text-align: left;
+    overflow: auto;
+    padding: 0 20px 0 20px;
+    align-items: center;
+   
+   
+    
+   
+    
+}
+
+
+
+/*.footer{
+    height: 50px;
+    width: 100%;
+    background-color: black;
+
+}*/

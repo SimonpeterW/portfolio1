@@ -1,0 +1,36 @@
+website design
+https://www.w3schools.com/howto/tryw3css_templates_startup.htm
+
+
+
+
+Features
+cards-https://www.w3schools.com/howto/howto_css_cards.asp
+avatar-image-https://www.w3schools.com/howto/howto_css_image_avatar.asp
+profile-card- https://www.w3schools.com/howto/howto_css_profile_card.asp
+parallax-scrolling - https://www.w3schools.com/howto/howto_css_parallax.asp
+about-page- https://www.w3schools.com/howto/howto_css_about_page.asp
+about page - brief intro of you, proffesional summary-experience, technologies
+products and services- products, services{webdev, appdev, design, system analysis,academic writing }
+Testimonials-
+ratings/feedback-
+footer-Quick links 
+
+
+About Me
+Hello! I’m Simon, a versatile and passionate Software Developer dedicated to creating impactful, innovative, and scalable solutions. With a strong foundation in software development, I specialize in designing and building applications that meet both user needs and business goals.
+
+I bring a dynamic skill set to the table, enabling me to deliver cutting-edge solutions in various domains, including web development, mobile app development, application development, and artificial intelligence (AI). My focus is on writing clean, efficient code and delivering projects that combine functionality with exceptional user experiences.
+
+My Mission
+I’m driven by a love for solving complex problems through technology. My mission is to harness my skills to build software that makes a difference—whether it’s enhancing productivity, driving innovation, or making everyday life easier.
+
+My Expertise
+App Development: End-to-end application development for desktop and cloud environments.
+Web Development: Creating responsive, fast, and scalable web applications.
+Mobile Development: Building intuitive mobile apps for Android and iOS platforms.
+AI Development: Integrating artificial intelligence solutions for smarter, data-driven applications.
+Beyond Development
+When I’m not coding, I’m exploring emerging technologies, brainstorming ideas for personal projects, or collaborating with like-minded developers. I’m also committed to continuous learning, staying ahead in the ever-evolving tech world.
+
+If you’re interested in seeing my work, check out my projects below, or let’s connect—I’m always excited about new opportunities and challenges!
